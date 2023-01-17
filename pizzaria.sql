@@ -1,7 +1,3 @@
--- Geração de Modelo físico
--- Sql ANSI 2003 - brModelo.
-
-
 
 CREATE TABLE Cardápio  (
 Cod_cardapio int PRIMARY KEY,
